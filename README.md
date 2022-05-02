@@ -1,4 +1,4 @@
-# php-getting-started
+# StudyTub-Images
 
 A barebones PHP app that makes use of the ImageMagick to generate thumbnails.
 
