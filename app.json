@@ -1,0 +1,6 @@
+{
+  "name": "StudyTub Images",
+  "description": "A barebones PHP app that makes use of the ImageMagick to generate thumbnails.",
+  "repository": "https://github.com/sumeetweb/StudyTub-Images",
+  "addons": []
+}
